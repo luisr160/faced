@@ -1,6 +1,6 @@
 # *faced*
 
-🚀 😏 CPU (Near) Real Time face detection
+CPU (Near) Real Time face detection
 
 <p align="center">
   <img src="examples/demo_yolo.gif"/>
@@ -138,7 +138,7 @@ Just install `tensorflow-gpu` instead of `tensorflow`.
 
 ### Status
 
-🚧 Work in progress 🚧
+
 Models will be improved and uploaded.
 
 **This is not a Production ready system. Use it at your own risk.**
