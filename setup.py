@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 def readme():
-    with open('README.md') as f:
+    with open('README.md', 'r', encoding='utf8', errors='ignore') as f:
         return f.read()
 
 with open('requirements.txt') as f:
